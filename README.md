@@ -1,7 +1,6 @@
 # Hi there, I'm Darrell Lokadeva Lim 👋
 
-<img src="[LINK_TO_HIS_UPLOADED_PROFILE_PICTURE_HERE]" alt="Darrell Lokadeva Lim" width="200" />
-My name is Darrell Lokadeva Lim, but you can call me Darrell. I am an Information Systems student at Sampoerna University-University of Arizona Joint Campus. I have a strong interest in data science, particularly on how data is leveraged to help companies in decision-making. [cite: 4] I am very eager to apply my skills in data analysis and programming in real-world projects through internships! 
+My name is Darrell Lokadeva Lim, but you can call me Darrell. I am an Information Systems student at Sampoerna University-University of Arizona Joint Campus. I have a strong interest in data science, particularly on how data is leveraged to help companies in decision-making. I am very eager to apply my skills in data analysis and programming in real-world projects through internships! 
 
 You can reach me at: [darrell.lokadeva.lim007@gmail.com](mailto:darrell.lokadeva.lim007@gmail.com) | [LinkedIn](https://www.linkedin.com/in/darrell-lokadeva-lim) 
 

@@ -43,9 +43,9 @@ Here are some of the projects I've worked on:
 ### Programming Skills
 
 * **Python:** Intermediate knowledge, mainly for data analytics (data cleaning and manipulation). 
-    * **Libraries:** NumPy, Pandas (Sufficient Knowledge)[cite: 13]; Matplotlib (Basic Knowledge)
+    * **Libraries:** NumPy, Pandas (Sufficient Knowledge); Matplotlib (Basic Knowledge)
     * *Currently practicing to enhance skills in machine learning (Scikit-learn) and data visualization (Seaborn).* 
-* **SQL:** Basic knowledge, mainly for data analytics purposes. [cite: 15]
+* **SQL:** Basic knowledge, mainly for data analytics purposes.
     * *Currently still practicing to enhance data manipulation skills using SQL.* 
 
 ### Non-Programming Skills
